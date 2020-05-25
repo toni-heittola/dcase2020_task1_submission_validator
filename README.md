@@ -1,0 +1,2 @@
+# dcase2020_task1_submission_checker
+DCASE2020 Challenge Task 1submission checker
